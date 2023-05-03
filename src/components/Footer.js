@@ -57,11 +57,10 @@ export default function Footer() {
     <FooterStyle>
       <div className="container">
         <div className="footer__col1">
-          <h1 className="footer__col1__title">Ayan Khan</h1>
+          <h1 className="footer__col1__title">Varun Gupta</h1>
           <PText>
-            A freelance web designer and developer from Chittagong, Bangladesh.
-            I always make websites that have unique designs and also has a good
-            performance rate.
+            I am web developer and I design full-stack websites using mern stack
+            and have stepped into the diffirent feild of cs
           </PText>
         </div>
         <div className="footer__col2">
@@ -96,15 +95,15 @@ export default function Footer() {
             heading="Contact Info"
             links={[
               {
-                title: '+88012312',
-                path: 'tel:+88012312',
+                title: '9108285804',
+                path: '+91',
               },
               {
-                title: 'webcifar@gmail.com',
-                path: 'mailto:webcifar@gmail.com',
+                title: 'varuntheartist@gmail.com',
+                path: 'mailto:varuntheartist@gmail.com',
               },
               {
-                title: 'GEC Circle, Chittagong, Bangladesh',
+                title: 'Bangalore - Karnatka, India',
                 path: 'http://google.com/maps',
               },
             ]}
@@ -115,16 +114,16 @@ export default function Footer() {
             heading="social Links"
             links={[
               {
-                title: 'Facebook',
-                path: 'http://facebook.com',
+                title: 'github',
+                path: 'https://github.com/varungupta04',
               },
               {
                 title: 'Twitter',
-                path: 'http://twitter.com',
+                path: 'https://twitter.com/varunGupta_04',
               },
               {
                 title: 'Instagram',
-                path: 'http://instagram.com',
+                path: 'https://www.instagram.com/varun_gupta_04/',
               },
             ]}
           />
@@ -133,9 +132,9 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            © 2021 - Ayan Khan | Designed By{' '}
+            © 2021 - Varun Gupta |
             <a target="_blank" rel="noreferrer" href="http://webcifar.com">
-              web cifar
+              varungupta04
             </a>{' '}
           </PText>
         </div>

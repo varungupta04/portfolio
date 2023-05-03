@@ -8,37 +8,36 @@ import CavinImg from '../images/cavinimg.jpg';
 const projects = [
   {
     id: uuidv4(),
-    name: 'U Tracker',
+    name: 'Habit Tracker',
     desc:
-      'An application to track your all data from one place. I developed the website and the mobile app',
+      'An application to track your habits from one place. I developed it using kotlin',
     img: UTrackerImg,
   },
   {
     id: uuidv4(),
-    name: 'Green CTG',
+    name: 'edu4u',
     desc:
-      'An app to help people to get an overview of how they can make the city beautiful.',
+      'on going project that helps tution centres freelance websites for their communication and assignments',
     img: GreenCtgImg,
   },
   {
     id: uuidv4(),
-    name: 'Coin Tracker',
-    desc:
-      'Using this app you can track any e coin. Also you will get a good advise about investment form the professional',
+    name: 'event_sol',
+    desc: 'using web 3.0 making a safe event-gateway',
     img: CoinTrackerImg,
   },
   {
     id: uuidv4(),
-    name: "Cavin's Portfolio",
+    name: "Varun's portfolio",
     desc:
-      'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
+      'A portfolio for myself still making betterments and using new tech for it',
     img: CavinImg,
   },
   {
     id: uuidv4(),
-    name: 'Tracking Soft',
+    name: 'notifee',
     desc:
-      'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+      'A slcak bot that schedules meetings straight from the message of the sender',
     img: ProjectImg,
   },
 ];

@@ -27,22 +27,22 @@ export default function ServicesSection() {
   return (
     <ServicesItemsStyles>
       <div className="container">
-        <SectionTitle subheading="What i will do for you" heading="Services" />
+        <SectionTitle subheading="What I can provide" heading="Services" />
         <div className="services__allItems">
           <ServicesSectionItem
             icon={<MdDesktopMac />}
-            title="web design"
-            desc="I do ui/ux design for the website that helps website to get a unique look."
+            title="Machine learning"
+            desc="I do image processing using opencv."
           />
           <ServicesSectionItem
             icon={<MdCode />}
             title="web dev"
-            desc="I also develop the websites. I create high performance website with blazing fast speed."
+            desc="I develop the websites. I create high performance website with blazing fast speed."
           />
           <ServicesSectionItem
             icon={<MdPhonelinkSetup />}
             title="app Dev"
-            desc="I develop mobile application. I create mobile app with eye catching ui. "
+            desc="I also develop mobile application. "
           />
         </div>
       </div>
