@@ -17,13 +17,13 @@ const projects = [
     id: uuidv4(),
     name: 'edu4u',
     desc:
-      'on going project that helps tution centres freelance websites for their communication and assignments',
+      'on going project that helps tution centres freelance websites for their communication and assignments https://github.com/varungupta04/backend-edu4u',
     img: GreenCtgImg,
   },
   {
     id: uuidv4(),
-    name: 'event_sol',
-    desc: 'using web 3.0 making a safe event-gateway',
+    name: 'landing page',
+    desc: 'using react to make landing pages with animations and smooth scroll complete front end https://github.com/varungupta04/Gifting_solution   https://github.com/varungupta04/3d-wesite',
     img: CoinTrackerImg,
   },
   {
@@ -35,9 +35,9 @@ const projects = [
   },
   {
     id: uuidv4(),
-    name: 'notifee',
+    name: 'arcade games',
     desc:
-      'A slcak bot that schedules meetings straight from the message of the sender',
+      'A marketplace for multiple games - hacktober fest https://github.com/csivitu/ArcadeGames',
     img: ProjectImg,
   },
 ];
