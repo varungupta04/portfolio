@@ -8,9 +8,9 @@ import CavinImg from '../images/cavinimg.jpg';
 const projects = [
   {
     id: uuidv4(),
-    name: 'Habit Tracker',
+    name: 'Doctor-appointment',
     desc:
-      'An application to track your habits from one place. I developed it using kotlin',
+      'MERN prject that helps users get an appointment from doctors and communicate wuth them in this online phase live link in the repo (switch to master branch)https://github.com/varungupta04/doc-proj ',
     img: UTrackerImg,
   },
   {
